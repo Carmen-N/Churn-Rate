@@ -1,3 +1,10 @@
+
+![image](https://user-images.githubusercontent.com/108952236/211149815-3836e138-1a6a-4e5f-bfab-a073022ecec5.png)
+
+
+
+
+
 Churn Rate
 
 qué es ?
